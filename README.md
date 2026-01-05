@@ -23,7 +23,7 @@ npm install
 npm run dev
 ```
 
-La aplicación estará disponible en `http://localhost:5173`
+La aplicación estará disponible en `http://localhost:3000`
 
 ## Uso
 
@@ -48,15 +48,15 @@ La aplicación estará disponible en `http://localhost:5173`
 
 ```bash
 npm run build
+npm start
 ```
 
-Los archivos compilados estarán en la carpeta `dist/`
+Los archivos compilados estarán en la carpeta `.next/`
 
 ## Tecnologías
 
+- Next.js 15
 - React 18
-- Vite
 - Tailwind CSS
-- Axios
-- Swagger Parser
+- js-yaml
 
